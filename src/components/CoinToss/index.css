@@ -1,0 +1,58 @@
+/* Write your CSS here */
+
+.main-container {
+  background-image: linear-gradient(to right, #e2a139, #f9d423);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+  margin-bottom: 20px;
+}
+
+.container {
+  background-color: #ffffff;
+  padding: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.head {
+  color: #a35200;
+  font-family: 'Roboto';
+}
+
+.para {
+  color: #334155;
+  font-family: 'Roboto';
+}
+
+.btn1 {
+  background-image: linear-gradient(to right, #e2a139, #f9d423);
+  color: #a35200;
+  font-family: 'Roboto';
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.para-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.p1 {
+  margin-right: 40px;
+  color: #334155;
+}
